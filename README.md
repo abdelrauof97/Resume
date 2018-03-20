@@ -1,6 +1,6 @@
 # Abdelrauof Portfolio
 
-Go TO My Website <link href="https://abdelrauof97.github.io/Resume/">Go To My Website</link>
+<link href="https://abdelrauof97.github.io/Resume/">Go To My Website</link>
 
 
 ## License
