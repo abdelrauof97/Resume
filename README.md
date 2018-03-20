@@ -1,6 +1,6 @@
 # Abdelrauof Portfolio
 
-<button type="button" >Go To My Website</button>
+<button type="button" ><link href="https://abdelrauof97.github.io/Resume/">Go To My Website</link></button>
 
 ## License
 
