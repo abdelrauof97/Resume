@@ -1,6 +1,6 @@
 # Abdelrauof Portfolio
 
-<input type="submit" value="Got To my Website" href="#" >
+##<input type="submit" value="Go To my Website" onclick="#" >
 
 ## License
 
